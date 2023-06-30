@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "input only value",
+      "setup": "g++ -o a.out ./Homework/HW01/hw01-3-basic-input-output.cpp",
+      "run": "./a.out",
+      "input": "Aomsin\r\nAomMoney",
+      "output": "Aomsin AomMoneys TC, RMUTL, Chiang Mai, Thailand",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}

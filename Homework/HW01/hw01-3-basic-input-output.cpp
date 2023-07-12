@@ -13,3 +13,7 @@
     Output:
         ABD DEFs TC, RMUTL, Chiang Mai, Thailand
 */
+#include <stdio.h>
+int main(){
+    printf()
+}

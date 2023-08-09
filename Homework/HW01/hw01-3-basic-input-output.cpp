@@ -15,5 +15,11 @@
 */
 #include <stdio.h>
 int main(){
-    printf()
+    char FirstName[15] , LastName[15];
+    printf("First Name : ");
+    scanf("%s",&FirstName);
+    printf("Last Name : ");
+    scanf("%s",&LastName);
+    printf("%s %s TC, RMUTL, Chiang Mai, Thailand",FirstName,FirstName);
+    return 0 ;
 }
